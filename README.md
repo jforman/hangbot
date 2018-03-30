@@ -16,7 +16,7 @@ From the [Hangouts Chat](https://developers.google.com/hangouts/chat/) documenta
 
 ## Screenshot of typical interaction
 
-![Screenshot](https://github.com/jforman/homebot/blob/master/hangouts-chat-screenshot.png)
+![Screenshot](https://github.com/jforman/hangbot/blob/master/hangouts-chat-screenshot.png)
 
 ## Execution
 
